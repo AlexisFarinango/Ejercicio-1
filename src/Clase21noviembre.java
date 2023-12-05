@@ -3,7 +3,7 @@ public class Clase21noviembre {
     public String nombre;
     public int edad;
 
-    public Clase21noviembre (int cedula,String nombre, int edad){//el metodo constructor es importante cuando se le asigna paramteros al objeto
+    public Clase21noviembre (int cedula, String nombre, int edad){//el metodo constructor es importante cuando se le asigna paramteros al objeto
         this. cedula = cedula;
         this. nombre = nombre;
         this. edad = edad;
